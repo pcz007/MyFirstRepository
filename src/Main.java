@@ -7,5 +7,7 @@ public class Main {
         System.out.println("programowania");
         System.out.println("i");
         System.out.println("commitowania");
+        System.out.println("Dodano dwie nowe linie");
+        System.out.println("potwierdzam dwie nowe linie");
     }
 }
